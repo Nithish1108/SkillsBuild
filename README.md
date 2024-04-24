@@ -12,7 +12,7 @@ This project aims to develop a facial expression recognition system using convol
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/rcaswin/facial-expression-recognition-using-cnn.git
+git clone 
 2. Install the required dependencies
 
 ## Usage
@@ -26,11 +26,4 @@ Contributions to this project are welcome. You can contribute by:
 - Reporting issues or bugs
 - Suggesting new features or improvements
 - Submitting pull requests to address open issues or add new features
-
-## License
-This project is licensed under the [MIT License][LICENSE](https://github.com/rcaswin/facial-expression-recognition-using-cnn/blob/main/LICENSE.txt).
-
-## Output
-![Happy](https://github.com/rcaswin/facial-expression-recognition-using-cnn/blob/main/Output/happy.png)
-![Sad](https://github.com/rcaswin/facial-expression-recognition-using-cnn/blob/main/Output/sad.png)
 
